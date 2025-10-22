@@ -69,6 +69,8 @@ You will need Python 3.10.11 and pip installed on your system.
     ```
     The application will be available at `http://127.0.0.1:5000`.
 
+<img width="595" height="374" alt="image" src="https://github.com/user-attachments/assets/8641460e-99f7-4e44-a2f0-7116a5d44b19" />
+
 ## Usage
 
 1.  Open your web browser and navigate to `http://127.0.0.1:5000`.
@@ -79,4 +81,5 @@ You will need Python 3.10.11 and pip installed on your system.
 6.  On the results page, you can play the audio, see the highlighted chords in real-time, and double-click any chord to make edits.
 
 7.  Click "Save as Text" or "Save as XML" to download your chord chart.
+
 
