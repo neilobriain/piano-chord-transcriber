@@ -41,7 +41,7 @@ You will need Python 3.10.11 and pip installed on your system.
 
 1.  **Clone the repo**
     ```
-    git clone https://gitlab.eeecs.qub.ac.uk/40463802/piano-chord-transcriber
+    git clone https://github.com/neilobriain/piano-chord-transcriber
     ```
 2.  **Navigate to the project directory**
     ```
@@ -81,5 +81,6 @@ You will need Python 3.10.11 and pip installed on your system.
 6.  On the results page, you can play the audio, see the highlighted chords in real-time, and double-click any chord to make edits.
 
 7.  Click "Save as Text" or "Save as XML" to download your chord chart.
+
 
 
